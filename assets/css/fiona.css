@@ -1,0 +1,20 @@
+.profile-image {
+    border-radius: 100%;
+}
+
+.center-box {
+    text-align: center;
+}
+
+.paper-title {
+    font-weight: 600;
+    font-size: 100%;
+}
+
+.paper-authors {
+    font-size: 80%;
+}
+
+.paper-venue, .paper-doi {
+    font-size: 80%;
+}
